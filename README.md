@@ -8,6 +8,8 @@ I was unfortunately unable to test against the ground truth provided in this occ
  
  In both notebooks, I decided to convert the dataset to a homogenous dataset in the interest of simplicity and time.
 
+ In hindsight, it would have perhaps been easier to use a simpler model, either a Complex model or another type of graph model or even convert the problem to a non-knowledge graph problem. 
+
 # How to run the notebooks
 
 To run the notebooks, a python3.9 virtualenvironment needs to be used, and the libraries in `requirements.txt` need to be installed as so:
