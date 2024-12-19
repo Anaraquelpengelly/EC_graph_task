@@ -14,3 +14,5 @@ To run the notebooks, a python3.9 virtualenvironment needs to be used, and the l
 
 `pip install -r requirements.txt`
 
+The datasets are the ones which were provided and the `Ground Truth.csv` was changed to `Ground_Truth.csv`.
+
